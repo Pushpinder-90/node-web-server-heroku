@@ -1,7 +1,7 @@
 {
   "name": "",
   "version": "",
-  "dependencies": {
+  "dependencies": { 
     "express": "^4.16.2",
     "nodemon": "^1.14.3",
     "hbs": "4.0.1"
